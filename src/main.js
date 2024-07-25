@@ -11,6 +11,8 @@ import "script-loader!flickity/dist/flickity.pkgd.min";
 import "script-loader!alertifyjs/build/alertify.min";
 import "script-loader!materialize-css/dist/js/materialize.min";
 
+const hasanAhmadian = 'Hello World';
+
 /*eslint-enable */
 Vue.config.productionTip = false;
 require('@/assets/js/winVars.js');
